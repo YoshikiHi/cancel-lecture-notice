@@ -1,5 +1,5 @@
 # cancel-lecture-notice
-- M専攻と全専攻が対象の講義のみをTwitterでつぶやくBot
+- M専攻と全専攻が対象の講義の休講情報をでつぶやくTwitterBot
 - 即席で作ったので超適当
 - herokuで動かし，データベースは使用しない仕様なので更新管理が雑い
 - 動作はこちら: https://twitter.com/uec_m_lec
